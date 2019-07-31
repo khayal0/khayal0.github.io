@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3487b7ff.chunk.css",
+    "main.js": "/static/js/main.fa88c399.chunk.js",
+    "main.js.map": "/static/js/main.fa88c399.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.70c33071.chunk.js": "/static/js/2.70c33071.chunk.js",
+    "static/js/2.70c33071.chunk.js.map": "/static/js/2.70c33071.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bdba5ad110d1082705920d26b157f92b.js": "/precache-manifest.bdba5ad110d1082705920d26b157f92b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3487b7ff.chunk.css.map": "/static/css/main.3487b7ff.chunk.css.map",
+    "static/media/drum.png": "/static/media/drum.ea1fc8dc.png",
+    "static/media/Main.css": "/static/media/raleway-bold-webfont.b0821878.ttf",
+    "static/media/gameoflife.jpg": "/static/media/gameoflife.f29286f5.jpg",
+    "static/media/github.png": "/static/media/github.8b818ad1.png",
+    "static/media/messageapp.png": "/static/media/messageapp.aa1f207a.png",
+    "static/media/movies.png": "/static/media/movies.44a77709.png",
+    "static/media/profile.jpg": "/static/media/profile.a5607c03.jpg",
+    "static/media/react.png": "/static/media/react.84df34ac.png",
+    "static/media/redux.png": "/static/media/redux.8251fe76.png",
+    "static/media/social.png": "/static/media/social.90ed3f9c.png",
+    "static/media/todo.png": "/static/media/todo.f27b9cf7.png",
+    "static/media/withdraw.png": "/static/media/withdraw.980bf314.png"
+  }
+}
